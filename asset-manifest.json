@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/StarWarPlanetDirectory/static/css/main.7496ea19.css",
+    "main.js": "/StarWarPlanetDirectory/static/js/main.8b0aac95.js",
+    "static/js/453.a6a97343.chunk.js": "/StarWarPlanetDirectory/static/js/453.a6a97343.chunk.js",
+    "static/media/banner.jpg": "/StarWarPlanetDirectory/static/media/banner.e2b7c4be76df7f961e0d.jpg",
+    "static/media/bg.jpg": "/StarWarPlanetDirectory/static/media/bg.85defb96ed8c9799ec0b.jpg",
+    "static/media/logo.png": "/StarWarPlanetDirectory/static/media/logo.f3d61c028983a06535e2.png",
+    "index.html": "/StarWarPlanetDirectory/index.html",
+    "main.7496ea19.css.map": "/StarWarPlanetDirectory/static/css/main.7496ea19.css.map",
+    "main.8b0aac95.js.map": "/StarWarPlanetDirectory/static/js/main.8b0aac95.js.map",
+    "453.a6a97343.chunk.js.map": "/StarWarPlanetDirectory/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7496ea19.css",
+    "static/js/main.8b0aac95.js"
+  ]
+}
